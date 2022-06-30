@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tidal-pathway-353601",
+  "private_key_id": "737c7d240ca750796ef3a44c08faa96ee8777554",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQComEm8jnQQ9sCH\niJ5TH3Gx7Y9E1jYMVLnz0WWfVUqxqTLKFe6FwuZ9SIV/jQco+B3n7kTWBTXfJixE\nL5KoV7itqBbtslUv55Djet3KDK17TIjIaJ6g0B+FFqTVvUZLClh54cvhgcA0PVPg\nRbrn8ljxjRAruj4pg7a8wbsenNKp8s/lQzT1awMjJapLsmiR9lDhw8FLr7fjhsSH\nyA6LGX8d9bcnR8U0eE0R/VgBoVd95VV/NxkKPnU/ouxay/9WawutJ2JGPalOKr3d\nhcKr2WAl061cS8/k3OuoiAXFE0tfOp5eSbkdB+iG2L0ZnpkMshSkD18te3ikNjSW\nyaomsHaRAgMBAAECggEAA7Mt4RW2Pd4QbRkGMnhM8DTwsTfLQVuFpjBo/MVsKXh3\nXSB8ltJnaQXzqhAwAUnqrBmaSKEeJMrLa2ao3wlny+XVtPs2K+I214stfV7oWr2b\n/dvv6UMQAgV0ch1ggsqUFP6r0QPeMjdLVS9qkecLZSetnGwOq64Qj1VoFByoceLR\nVWtH8Q+1FyyHrjChhLn3KiMoITrkjxZGkAxeYnqQcv/aDyApxBCphsIrx0Ekpae2\nPFg4NOC8Nv0ivzzyp8NpBnKyUJqR95TeDq3xpJdUUU2cI5QDdIwSpXrPznwJ2aZT\nBwAXmYB0CiCz1kRHlEllmxImhGRjcJS/Iz5SeYR6gQKBgQDrHyBLm8pywqywPe5b\nLI6+8NvT5uaSMb/rKjGKroZfWRw7DEXyxOYsYhaWYbysHh207501weztYI58m50L\n5iOlBBRIdrn8S9pqpgt6Q1E4uAhFuQ/5mSERnxUz9bEqjVHlTXPX6K9MiAWhybIB\nHfYCrdGEZKlgbW13dDf/Q6QzsQKBgQC3kNnqC68LH/kGYp0UOtKE+UJM/yWnGYhB\n7IeH8CnDsK7Be5LoEOQIfnkPmWkR70SkmapuonA33iChslVIe2+1tw1btDZ1UHuN\ni8H1Awkggg3lW2LP1S9Kea5liXWPGSomEufW3TVnVtgYyAFEqf0aBZeudNMDtKMk\no+7xLbmI4QKBgQDJvg5u8cEXETUtkCY6MxRUf8SPoNsMbAWZ2b1imnePzp0riU9n\njE1Xnd51sG08XibtPoBtRPVvhN8dykRJlnHVQJfKyZyx/7/srIbCpIpHmZj3gmBT\nsXGvdgmyaMlYkqPHldqlUvE/QKNce/zxemzBRbW13M18gMhhq+X0cGyvMQKBgQCF\nkOpeuB2n1J3YHYz6GUrw4oVxjP2StqtEfJypNwDMmRSvSAE+xnuGCrB/vzqKiDTE\nJ+OxGJTasc/AmAgh8173M7iOj3RIrEUaWyTH6GuNsdP2nSYq343HfP5+dySI+OCI\nT51N5Ctlg/U9Itp5Yc7+Ti9uCyc3PQqwMHA+IO0tQQKBgH6Qlz36HJ/R5awnDWxm\nl9c5JuzcelsR9EfUwG0ZMcv6Gc+vTl3Pmkhs4iBOu7ko5DBE4UKkEu0jy9U00Jue\nTk7GOXnAZQ38KlYo+Y4xOjcMQNdiNutdGjN0+m+4sb4PfmLzHw4A4ydxgcK8J4n7\nGS86stIIZNqH+S2qLChLARne\n-----END PRIVATE KEY-----\n",
+  "client_email": "ga-api1@tidal-pathway-353601.iam.gserviceaccount.com",
+  "client_id": "102560068283349967308",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ga-api1%40tidal-pathway-353601.iam.gserviceaccount.com"
+}
